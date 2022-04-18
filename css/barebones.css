@@ -378,6 +378,15 @@ pre > code {
 
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+#program {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 th,
 td {
   padding: 12px 15px;
